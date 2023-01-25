@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning java , spring framework , selenium , cucumber , testNG
+- 📫 How to reach me: moeksin@gmail.com
 <!--
 **achmad/achmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
